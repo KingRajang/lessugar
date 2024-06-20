@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164206502447",
+    "project_id": "se-lessugar",
+    "storage_bucket": "se-lessugar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164206502447:android:d249c5a32c4ddba4465cda",
+        "android_client_info": {
+          "package_name": "com.example.lessugar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164206502447-3d8u0tsveqp5jbjasv7n8ufbprfkod7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lessugar",
+            "certificate_hash": "429b0c2d4340e62e9a0d7e21d55b13e5b109d731"
+          }
+        },
+        {
+          "client_id": "164206502447-imf262o9l3i9tubgtmgh2bnneau5cg1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxP_OfPuUumF_h9_3xQIZ3QVgW9xO3Uhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164206502447-imf262o9l3i9tubgtmgh2bnneau5cg1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
